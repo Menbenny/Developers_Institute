@@ -81,15 +81,23 @@ name_user1, name_user2 and 3 more are online
 */
 
 // const users = ["Lea123"];
-let users = ["Gabby", "Benji", "Friends", "Dogs", "Angels", "Prophets", "Princes", "Princesses"]
-// console.log(users.length);
 
-if (users.length == 0) {
-    console.log(`No one is online`);
-} else if (users.length == 1) {
-    console.log(`${users[0]} is online`);
-} else if (users.length == 2) {
-    console.log(`${users[0]} and ${users[1]} are online`);
-} else if (users.length > 2) {
-    console.log(`${users[0]}, ${users[1]} and ${users.length - 2} more are online`);
-}
+
+// used array:
+
+// let users = ["Gabby", "Benji", "Friends", "Dogs", "Angels", "Prophets", "Princes", "Princesses"]
+
+
+// testing: 
+
+// // console.log(users.length);
+
+// if (users.length == 0) {
+//     console.log(`No one is online`);
+// } else if (users.length == 1) {
+//     console.log(`${users[0]} is online`);
+// } else if (users.length == 2) {
+//     console.log(`${users[0]} and ${users[1]} are online`);
+// } else if (users.length > 2) {
+//     console.log(`${users[0]}, ${users[1]} and ${users.length - 2} more are online`);
+// }
