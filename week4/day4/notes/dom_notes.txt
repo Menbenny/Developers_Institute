@@ -1,0 +1,9 @@
+Document Object Modeling
+JS_Functions:
+
+getElemrtById()
+Daniel usually gets element by ID, his teacher tells to use QuerySelector.
+Choose one comfortable for you. 
+
+adding a class to an element without overiding the classes use: .add() - argument is the change 
+
